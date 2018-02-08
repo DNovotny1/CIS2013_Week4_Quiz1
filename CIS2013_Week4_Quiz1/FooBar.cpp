@@ -6,7 +6,7 @@ int main()
 {
 	int a = 0;
 	int b = 0;
-	for (int i = 1; i < 2000; i++)
+	for (int i = 1; i < 2001; i++)
 	{
 		cout << i;
 		if (i%50 == 0) {
